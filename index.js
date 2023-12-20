@@ -3,6 +3,7 @@ class Hero{
         this.nome = nome;
         this.idade = idade;
         this.tipo = tipo;
+        this.ataque;
     }
 
     atacar(){
